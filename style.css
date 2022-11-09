@@ -1,0 +1,25 @@
+@import url(./__style/normalize.css);
+@import url(./__font/_font-link/font-link.css);
+@import url(./__style/header.css);
+@import url(./__style/main.css);
+@import url(./__style/element.css);
+@import url(./__style/help.css);
+@import url(./__style/project.css);
+/* ---- */
+@import url(./__style/footer.css);
+/* ---- */
+@import url(./__page/page_style.css);
+@import url(./__page/_style/page_768.css);
+@import url(./__page/_style/page_375.css);
+/* ---- */
+@import url(./__style/_media/768.css);
+@import url(./__style/_media/375.css);
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.body {
+  font-family: "Roboto", sans-serif;
+}

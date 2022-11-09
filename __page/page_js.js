@@ -1,0 +1,1 @@
+document.getElementsByClassName('.info').textContent = '<header> <img class = "logo"src = "./__image/_header/logo.png"alt = "Лого" ><img class = "contact"src = "./__image/_header/notebook.png"alt = "Книжка" ></header>';

@@ -1,0 +1,45 @@
+.linear-gradient {
+  position: absolute;
+  width: 100%;
+  height: 768px;
+  left: 0px;
+  top: 0px;
+  z-index: -1;
+  background: linear-gradient(
+    0deg,
+    #ebf3fb 8.84%,
+    rgba(152, 195, 232, 0) 31.12%
+  );
+}
+.button {
+  width: 220px;
+  height: 56px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  text-align: center;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+  border: none;
+  background: #5a98d0;
+  box-shadow: 5px 10px 20px rgba(53, 110, 173, 0.2);
+}
+.button:hover {
+  cursor: pointer;
+}
+.heading {
+  font-weight: 300;
+  font-size: 36px;
+  line-height: 46px;
+  text-align: center;
+  letter-spacing: 0.05em;
+  color: #000000;
+  text-align: center;
+}
+.text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  letter-spacing: 0.05em;
+  color:#fff;
+}

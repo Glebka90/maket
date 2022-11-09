@@ -1,0 +1,44 @@
+.main {
+  max-width: 1140px;
+  height: 550px;
+  margin: 0 auto;
+  margin-bottom: 196px;
+  padding-top: 107px;
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+}
+.main__heading {
+  width: 100%;
+  font-weight: 300;
+  font-size: 64px;
+  line-height: 74px;
+  letter-spacing: 0.04em;
+  color: #1F3F68;
+}
+.info {
+  width: 590px;
+  height: 580px;
+  margin-left: 5px;
+  z-index: 3;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+}
+
+.info__text {
+  max-width: 425px;
+  margin-top: 32px;
+  color: #1f3f68;
+  opacity: 0.6;
+}
+.info__button {
+  margin-top: 71px;
+  border-radius: 10px;
+}
+.main__image {
+  width: 648.69px;
+  height: 549.04px;
+  position: absolute;
+  right: 0;
+}

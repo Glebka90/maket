@@ -1,0 +1,9 @@
+@media (min-width: 375px) and (max-width: 768px) {
+  .address {
+    flex-direction: column;
+    align-items: center;
+  }
+  .address__info{
+    margin-bottom: 64px;
+  }
+}

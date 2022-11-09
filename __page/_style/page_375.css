@@ -1,0 +1,19 @@
+@media (max-width: 375px) {
+  .address {
+    flex-direction: column;
+    align-items: center;
+  }
+  .address__info {
+    margin-bottom: 64px;
+  }
+  .message {
+    max-width: 342.67px;
+  }
+  .message__text{
+    max-width: 271.6px;
+  }
+  .message__button {
+    max-width: 271.6px;
+    height: 46.26px;
+  }
+}

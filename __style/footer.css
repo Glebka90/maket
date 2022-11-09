@@ -1,0 +1,54 @@
+.footer {
+  max-width: 1366px;
+  height: 657px;
+  margin: 0 auto;
+  position: relative;
+  background-color: #316099;
+}
+.footer__team {
+  max-width: 1140px;
+  height: 391px;
+  margin: 0 auto;
+  margin-top: 112px;
+  padding: 0 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.footer__info {
+}
+.heading {
+}
+.footer__heading {
+  width: 341px;
+  font-weight: 400;
+  color: #ffffff;
+  text-align: left;
+}
+.footer__text {
+  max-width: 495px;
+  margin: 45px 5px 0 0;
+}
+
+.footer__contact {
+  max-width: 1140px;
+  height: 160px;
+  margin: 0 auto;
+  margin-top: 64px;
+  padding: 0 5px;
+  display: flex;
+  justify-content: space-between;
+}
+.number{
+  margin-right: 19px;
+}
+.contact__info {
+  display: inline-block;
+}
+
+.copyright {
+  position: absolute;
+  left: 113px;
+  bottom: 64px;
+  opacity: 0.4;
+}

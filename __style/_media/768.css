@@ -1,0 +1,46 @@
+@media (min-width: 375px) and (max-width: 768px) {
+  .main__image {
+    max-width: 393.65px;
+    height: 333.18px;
+    bottom: -130px;
+  }
+
+  .help__blocks {
+    height: 1430px;
+    flex-direction: column;
+    align-items: center;
+  }
+  .help__block {
+    margin-top: 32px;
+  }
+  .project__block_mini {
+    width: 336px;
+    height: 253px;
+  }
+  .footer {
+    height: 664px;
+  }
+  .footer__team {
+    height: 321px;
+    justify-content: space-around;
+  }
+  .footer__text {
+    width: 336px;
+  }
+  .footer__button {
+    width: 133.04px;
+    height: 31.48px;
+  }
+  .footer__contact {
+    max-width: 620px;
+    flex-direction: column;
+  }
+  .contact__text {
+    max-width: 620px;
+    padding: 0 5px;
+    display: flex;
+  }
+  .number {
+    margin-right: 36px;
+  }
+}
